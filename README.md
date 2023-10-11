@@ -52,7 +52,7 @@
 
 <p align="center">
 	<a href="https://github.com/joekeroo">
-		<img src="https://github-readme-stats.vercel.app/api?username=joekeroo&custom_title=joekeroo&hide_border=true&hide=issues&show_icons=true&count_private=true&theme=dark" width="455" alt="joekeroo's GitHub Stats"/>
+		<img src="https://github-readme-stats.vercel.app/api?username=joekeroo&hide_border=true&hide=issues&show_icons=true&count_private=true&theme=dark" width="455" alt="joekeroo's GitHub Stats"/>
 	</a>
 	<a href="https://github.com/joekeroo?tab=repositories">
 		<img src="https://github-readme-stats.vercel.app/api/top-langs?username=joekeroo&hide_border=true&show_icons=truecount_private=true&layout=compact&theme=dark" width="300" alt="joekeroo's Most Used Languages"/>
