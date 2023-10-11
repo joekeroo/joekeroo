@@ -10,4 +10,9 @@
 
 <a href="https://github.com/antonkomarev/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=joekeroo&style=for-the-badge"></a>
 
-![Joel's GitHub stats](https://github-readme-stats.vercel.app/api?username=joekeroo&show_icons=true&theme=radical)
+## GitHub Stats
+
+<p align="center">
+	<img src="https://github-readme-stats.vercel.app/api?username=joekeroo&custom_title=joekeroo&hide_border=true&hide=issues&show_icons=true&count_private=true&theme=merko" width="500" alt="joekeroo's GitHub Stats"/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=joekeroohide_border=true&show_icons=true&layout=compact&theme=merko" width="350" alt="joekeroo's Most Used Languages"/>
+</p>
